@@ -1,0 +1,91 @@
+.imgprincipale{
+    width:1000px !important;
+    height:25% !important;
+    
+    margin-left:auto !important;
+    margin-right:auto !important;
+    display:table !important;   
+    
+
+
+}
+
+.oprhelindum{
+    text-align: center;
+    font-family: cursive;
+    color:red;
+}
+
+
+
+.petitf {
+    width:20% !important; 
+    height:20% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    display: table !important;     
+  }
+    
+.pun{
+
+    font-family: cursive;
+}
+
+.def{
+    text-align: center;
+    font-family: cursive;
+    color:red;
+}
+
+.def:hover{
+    color:gray;
+
+}
+
+
+.defd{
+    text-align: center;
+    font-family: cursive;
+}
+.defd:hover{color:darkred}
+
+.chiffres{
+    text-align: center;
+    font-family: cursive;
+    color:red;
+}
+
+.test{
+    text-align:center;
+    color:purple;
+}
+
+.test:hover {color: orange;}
+
+
+
+
+
+.sources{
+    font-size:30px;
+    text-align: center;
+}
+.sources:link{color:greenyellow;}
+.sources:visited{color:rgb(72, 97, 163);}
+.sources:hover {color:red;}
+
+
+.donneuni{
+    width:20% !important;
+    height:20% !important;
+
+}
+
+
+.autretab{
+    text-align: left;
+    color:darkorchid;
+}
+
+.autretab:hover{color:red;}
+
